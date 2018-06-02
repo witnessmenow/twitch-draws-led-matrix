@@ -1,0 +1,15 @@
+{
+  "name": "twitch-draws-led-matrix",
+  "version": "1.0.0",
+  "description": "Chat bot for drawing on LED matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitch-bot": "^1.2.5",
+    "websocket": "^1.0.26"
+  }
+}

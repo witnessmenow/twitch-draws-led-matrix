@@ -14,7 +14,7 @@ Feel free to reach out if you have any questions:
 
 ## Instructions
 
-1. Setup up display as described [here], including installing the DisplayWithWebscokets.ino
+1. Setup up display as described [here](https://github.com/witnessmenow/ESP8266-Led-Matrix-Web-Draw), including installing the DisplayWithWebscokets.ino
 2. Edit index.js to update the url of your esp8266
 3. Either add your twitch Auth token to your environment variables as 'twitchOAuth' or paste it manually into index.js
 
